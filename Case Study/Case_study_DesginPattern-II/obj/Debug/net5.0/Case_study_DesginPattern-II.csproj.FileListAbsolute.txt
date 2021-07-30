@@ -1,0 +1,32 @@
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.exe
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.deps.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.runtimeconfig.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.runtimeconfig.dev.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\ref\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.csprojAssemblyReference.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.AssemblyInfoInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.AssemblyInfo.cs
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\ref\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.genruntimeconfig.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.exe
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.deps.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.runtimeconfig.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.runtimeconfig.dev.json
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\ref\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\bin\Debug\net5.0\Case_study_DesginPattern-II.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.csprojAssemblyReference.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.AssemblyInfoInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.AssemblyInfo.cs
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\ref\Case_study_DesginPattern-II.dll
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\Solid Design\Case Study\Case_study_DesginPattern-II\obj\Debug\net5.0\Case_study_DesginPattern-II.genruntimeconfig.cache
